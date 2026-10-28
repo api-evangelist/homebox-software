@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HomeBox is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://homebox.software/
+HomeBox provides a simple, open‑source home inventory management system. It lets users catalog items, locations, and collections with a lightweight Go backend, supporting SQLite or PostgreSQL, Docker deployment, and self‑hosting. The software emphasizes privacy, low resource usage (under 50 MB RAM), and extensibility through templates and labels, making it suitable for personal households and small teams.
+
+**Areas:** Home · Inventory · OpenSource · SelfHosted · Go
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://homebox.software/)
+- [Documentation](https://homebox.software/en/)
+- [Getting started](https://homebox.software/en/quick-start/)
+- [API reference](https://homebox.software/en/api/)
+- [Support](https://discord.homebox.software)
+- [Blog](https://blog.homebox.software)
+- [Security](https://github.com/sysadminsmedia/homebox/blob/main/SECURITY.md)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/homebox-software/](https://apis.io/providers/homebox-software/).
